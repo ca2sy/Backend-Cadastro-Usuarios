@@ -52,13 +52,13 @@ Cada usuário possui os seguintes campos:
 
 ---
 
-### 📄 Listar usuários
+###  Listar usuário
 
 **GET** `/usuarios`
 
 ---
 
-### ✏️ Atualizar usuário
+### Atualizar usuário
 
 **PUT** `/usuarios/:id`
 
@@ -72,7 +72,7 @@ Cada usuário possui os seguintes campos:
 
 ---
 
-### 🗑️ Deletar usuário
+###  Deletar usuário
 
 **DELETE** `/usuarios/:id`
 
@@ -101,4 +101,5 @@ Este projeto **não tem foco em produção**, sendo utilizado apenas para:
 Projeto desenvolvido para estudo e prática pessoal.
 
 ---
+
 
